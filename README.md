@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im Constantin, 
+a Softwareengineer working at @Mycrobez
 
 ## Projects
 <a href="https://github.com/coennii/coennii.ne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coennii&repo=coennii.me&show_owner=true&theme=dark&hide_border=true"></a>
