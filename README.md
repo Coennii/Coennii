@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 ## Projects
-<a href="https://github.com/thilojaeggi/Notely"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thilojaeggi&repo=Notely&show_owner=true&theme=dark&hide_border=true"></a>
+<a href="https://github.com/coennii/coennii.ne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coennii&repo=coennii.me&show_owner=true&theme=dark&hide_border=true"></a>
+<!--
 <a href="https://github.com/thilojaeggi/WinGetty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thilojaeggi&repo=WinGetty&show_owner=true&theme=dark&hide_border=true"></a>
 -->
 ## Stats
